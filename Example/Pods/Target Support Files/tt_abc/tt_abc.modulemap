@@ -1,0 +1,6 @@
+framework module tt_abc {
+  umbrella header "tt_abc-umbrella.h"
+
+  export *
+  module * { export * }
+}
