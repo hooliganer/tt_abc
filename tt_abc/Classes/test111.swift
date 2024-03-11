@@ -18,3 +18,9 @@ class Classssss: NSObject {
         funccc()
     }
 }
+
+class TestTestTest {
+    static let shared = TestTestTest()
+    
+    
+}
